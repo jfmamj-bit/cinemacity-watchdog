@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:51:23",
+ "updated": "2026-10-30T17:58:07",
  "events": {
   "276234": {
    "id": "276234",
@@ -511,8 +511,8 @@
    "booking": "https://tickets.cinemacity.cz/order/276470",
    "soldOut": false
   },
-  "276471": {
-   "id": "276471",
+  "276472": {
+   "id": "276472",
    "film": "Hunger Games: Úsvit sklizně",
    "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
    "cinema": "Praha Flora, OC FLORA",
@@ -529,7 +529,133 @@
     "sci-fi",
     "subbed"
    ],
-   "booking": "https://tickets.cinemacity.cz/order/276471",
+   "booking": "https://tickets.cinemacity.cz/order/276472",
+   "soldOut": false
+  },
+  "276473": {
+   "id": "276473",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-20T17:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276473",
+   "soldOut": false
+  },
+  "276476": {
+   "id": "276476",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-20T20:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276476",
+   "soldOut": false
+  },
+  "276474": {
+   "id": "276474",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-21T17:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276474",
+   "soldOut": false
+  },
+  "276477": {
+   "id": "276477",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-21T20:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276477",
+   "soldOut": false
+  },
+  "276475": {
+   "id": "276475",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-22T17:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276475",
+   "soldOut": false
+  },
+  "276478": {
+   "id": "276478",
+   "film": "Hunger Games: Úsvit sklizně",
+   "filmLink": "https://www.cinemacity.cz/films/hunger-games-usvit-sklizne/7803s2r",
+   "cinema": "Praha Flora, OC FLORA",
+   "cinemaId": "1052",
+   "datetime": "2026-11-22T20:30:00",
+   "auditorium": "IMAX VOLVO",
+   "attrs": [
+    "12-plus",
+    "2d",
+    "action",
+    "adventure",
+    "first-subbed-lang-cs",
+    "imax",
+    "sci-fi",
+    "subbed"
+   ],
+   "booking": "https://tickets.cinemacity.cz/order/276478",
    "soldOut": false
   },
   "248952": {
