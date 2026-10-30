@@ -1,26 +1,6 @@
 {
- "updated": "2026-10-30T13:58:01",
+ "updated": "2026-10-30T17:00:25",
  "events": {
-  "276160": {
-   "id": "276160",
-   "film": "Odyssea",
-   "filmLink": "https://www.cinemacity.cz/films/odyssea/7268s2r",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-10-30T16:40:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "15-plus",
-    "2d",
-    "70-mm",
-    "drama",
-    "first-subbed-lang-cs",
-    "history",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/276160",
-   "soldOut": false
-  },
   "276234": {
    "id": "276234",
    "film": "Street Fighter",
